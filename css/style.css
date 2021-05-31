@@ -294,9 +294,8 @@ nav.small {
 	min-height: 400px;
 }
 .home-page-photo {
-	background-image: url(../images/sadblob.gif);
-	background-repeat: no-repeat;
-	background-size: 1920px 1080px;
+	background-image: url(../images/bg-5.jpg);
+	background-size: cover;
 	z-index: -1;
 	position: absolute;
 	top: 0;
